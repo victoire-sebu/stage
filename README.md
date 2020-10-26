@@ -20,7 +20,7 @@ Essayez de créer un site web assez attrayant avec le module website.
 
 Quelques documentation 
 https://www.odoo.com/fr_FR/slides/slide/website-basics-643
-Vous pouvez toujours faire des recherche aussi.
+Vous pouvez toujours faire vos propres recherches aussi.
 
 
 
